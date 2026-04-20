@@ -11,13 +11,10 @@ Test only
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project/Technology]
-- 🌱 I’m currently learning [A New Skill You're Learning]
-- 👯 I’m looking to collaborate on [Types of Projects]
-- 🤔 I’m looking for help with [A Challenge You're Facing]
-- 💬 Ask me about [Your Areas of Expertise]
+- 🔭 I’m currently working on ERPNEXT 15 and ODOO 18
+- 🌱 I’m currently learning "How to vibe coding perfectly without reducing manual coding skill"
+- 🤔 I’m looking for help with creating a bot for trading
 - 📫 How to reach me: [Your Email or LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ---
