@@ -14,6 +14,7 @@ Test only
 - 🔭 I’m currently working on ERPNEXT 15 and ODOO 18
 - 🌱 I’m currently learning "How to vibe coding perfectly without reducing manual coding skill"
 - 🤔 I’m looking for help with creating a bot for trading
+- 🤔 In the middle of building another digital brain
 - 📫 How to reach me: [Your Email or LinkedIn Profile]
 - ⚡ Fun fact: [A Fun Fact About You]
 
@@ -49,7 +50,7 @@ Test only
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lie16&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie16&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 **Note:** Replace `lie16` with your actual GitHub username in the URLs above.
