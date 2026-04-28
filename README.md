@@ -24,14 +24,14 @@ Test only
 **Coding Languages:**
 | | | |
 | :--- | :--- | :--- |
-| `Python` | `JavaScript` | `C++` |
-| `HTML` | `CSS` | `SQL` |
+| `Python` | `JavaScript` | `Java` |
+| `SQL` | `` | `` |
 
 **Tools & Technologies:**
 | Category | Tools |
 | :--- | :--- |
-| **Development** | Git / Docker / VS Code |
-| **Data Analysis** | Power BI / Tableau / Office 365 |
+| **Development** | Git / AntiGravity / VS Code |
+| **Data Analysis** | Tableau / SQL / D3.JS |
 | **Operating Systems** | Linux (Ubuntu) / Windows |
 
 ---
@@ -48,7 +48,7 @@ Test only
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lie16&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
