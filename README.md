@@ -21,12 +21,14 @@ Test only
 ---
 
 ### 💻 Skills & Expertise
-## WIP
-**Coding Languages:**
-| | | |
-| :--- | :--- | :--- |
-| `Python` | `JavaScript` | `Java` |
-| `SQL` | `` | `` |
+**🛠 Tech Stack:**
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-E11D48?style=for-the-badge&logo=frappe&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 **Tools & Technologies:**
 | Category | Tools |
@@ -55,17 +57,6 @@ Test only
 
 ## bellow is still WIP
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lie16&theme=radical)
-
-### 🛠 My Tech Stack
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
-![Snake animation](https://github.com/lie16/lie16/blob/output/github-contribution-grid-snake.svg)
 
 **Note:** Replace `lie16` with your actual GitHub username in the URLs above.
 
