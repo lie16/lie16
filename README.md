@@ -3,7 +3,6 @@ http://googleusercontent.com/image_generation_content/0
 # 👋 Hi, I’m Yonattan
 
 A passionate and results-driven developer with a knack for building efficient and scalable web applications. I thrive on turning complex problems into simple, beautiful, and intuitive designs. I’m always looking to learn and grow, and I’m excited to collaborate on innovative projects.
-Test only
 
 ---
 
@@ -12,6 +11,7 @@ Test only
 ## 🚀 About Me
 
 - 🔭 I’m currently working on ERPNEXT 15 and ODOO 18
+- 🔭 I’m currently working on Quant Trading for fun
 - 🌱 I’m currently learning "How to vibe coding perfectly without reducing manual coding skill"
 - 🤔 I’m looking for help with creating a bot for trading
 - 🤔 In the middle of building another digital brain
