@@ -72,3 +72,6 @@ A passionate and results-driven developer with a knack for building efficient an
 **Note:** Replace the placeholder URLs and handles with your own.
 
 ---
+
+## Quote
+I chide the thief who steals another’s light,Yet in the glass, my own face stands accused;I spin my verse from shadows of the night,And speak in words that dead men safely used.Is there a thought uniquely born of me,Or am I but an echo in a cave?A drifting ship upon a borrowed sea,That rides the crest of some forgotten wave.We mirror mirrors, shadows chasing shade,And mimic shapes that others blindly drew;In stolen gowns our fleeting masks are made,While all despair to fashion something new.Yet though we walk in borrowed clothes and art,The grief we feel is native to the heart.
