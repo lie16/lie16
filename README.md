@@ -11,10 +11,10 @@ A passionate and results-driven developer with a knack for building efficient an
 ## 🚀 About Me
 
 - 🔭 I’m currently working on ERPNEXT 15 and ODOO 18
-- 🔭 I’m currently working on Quant Trading for fun
+- 🔭 I’m currently creating skill for Flutter + SPring Boot
 - 🌱 Current coding tehnique implemented : Vibe + Manual Coding
 - 🤔 In the middle of building another digital brain
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
+- 📫 How to reach me: https://www.linkedin.com/in/yonattan/
 - ⚡ Fun fact: Coding = Game, Game = Coding
 
 ---
